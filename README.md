@@ -1,9 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Frank Liu. 👨🏻‍
 
-<!--
-**youquanliu/youquanliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#💻 About Me 
+- 🤔   Exploring new technologies and developing software solutions and quick hacks. 
+- 🎓   Graduated from George Brown College  for  Computer Programming and Analysis. 
+- 🎓   #cohort25 Software Engineering Immersive graduate at General Assembly College of Technology. 
+- 🌱   Learning more about JavaScript, ReactJS, noSQL and Django 
+- 🔥   Interests: joging, video games, shaking a cocktail, 🐶Polar 
+- ✍️   #readytowork 
 
-Here are some ideas to get you started:
+#🛠 Tech Stack 
+- 🌐   HTML | CSS | JavaScript | JQuery | Node.js | ReactJS | Express 
+- 🛢  noSQL | MySQL
+- 🔧   Git |   
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
