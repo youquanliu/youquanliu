@@ -10,7 +10,7 @@
 
 #🛠 Tech Stack 
 - 🌐   HTML | CSS | JavaScript | JQuery | Node.js | ReactJS | Express 
-- 🛢  noSQL | MySQL
+- 🛢  MongoDB | PostgreSQL
 - 🔧   Git |   
 
 #🏠 My Personal Web
