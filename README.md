@@ -9,9 +9,9 @@
 - ✍️   #readytowork ...
 
 #🛠 Tech Stack 
-- 🌐   HTML | CSS | JavaScript | JQuery | Node.js | ReactJS | Express 
-- 🛢  MongoDB | PostgreSQL
-- 🔧   Git |   
+- 🌐   HTML | CSS | JavaScript | Gatsby | Node.js | ReactJS | Express 
+- 🛢  MongoDB | PostgreSQL  GraphQL
+- 🔧   Git | VScode  
 
 #🏠 Portfolio Web
 - www.youquanliu.com
